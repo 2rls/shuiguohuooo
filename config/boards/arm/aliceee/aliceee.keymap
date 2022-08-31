@@ -27,7 +27,7 @@
 	&kp GRAVE  &kp N1  &kp N2  &kp N3  &kp N4  &kp N5  &kp N6  &kp N7  &kp N8  &kp N9  &kp N0   &kp DELETE
 	&bt BT_CLR  &kp A  &kp PAGE_UP  &kp PAGE_DOWN  &kp PSCRN  &kp G  &kp MINUS  &kp EQUAL  &kp LBKT  &kp RBKT  &kp BSLH &kp RET 
 	&kp LSHFT   &kp LGUI &kp Z  &kp X  &kp C  &kp V  &kp B &kp B &kp N  &kp M  &kp COMMA &kp FSLH &kp C_VOL_UP  &bootloader
-	&kp LCTRL &kp LGUI &mo 2             &kp SPACE                     &kp SPACE  &bt BT_PRV  &kp C_VOLUME_DOWN   &bt BT_NXT 
+	&kp LCTRL &kp LGUI &mo 2             &kp SPACE                    &kp SPACE  &bt BT_PRV  &kp C_VOLUME_DOWN   &bt BT_NXT 
 			>;
 		};
 	};
