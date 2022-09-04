@@ -26,8 +26,8 @@
 			bindings = <
 	&kp GRAVE  &kp N1  &kp N2  &kp N3  &kp N4  &kp N5  &kp N6  &kp N7  &kp N8  &kp N9  &kp N0   &kp DELETE
 	&bt BT_CLR  &kp A  &kp PAGE_UP  &kp PAGE_DOWN  &kp PSCRN  &kp G  &kp MINUS  &kp EQUAL  &kp LBKT  &kp RBKT  &kp SQT  &kp BSLH 
-	&kp LSHFT   &kp FSLH &kp Z  &kp X  &kp C  &kp V  &kp B &kp FSLH &kp N  &kp M  &kp COMMA &kp FSLH &kp C_VOL_UP  &bootloader
-	&kp LCTRL &kp LGUI &mo 2             &mo 1                    &kp SPACE  &bt BT_PRV  &kp C_VOLUME_DOWN   &bt BT_NXT 
+	&kp CAPS   &kp LSHIFT &kp Z  &kp X  &kp C  &kp V  &kp B &kp FSLH &kp N  &kp M  &kp COMMA &kp FSLH &kp C_VOL_UP  &bootloader
+	&kp LCTRL &kp LGUI &kp LART             &mo 1                    &kp SPACE  &bt BT_PRV  &kp C_VOLUME_DOWN   &bt BT_NXT 
 			>;
 		};
 	};
